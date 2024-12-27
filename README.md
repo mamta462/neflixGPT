@@ -16,4 +16,11 @@
 
    # NetflixGpt   
    - Search Bar
-   - Movie suggestions            
+   - Movie suggestions  
+
+   # Shortcut to create component
+   - type rafce in component file and then hit enter        
+
+
+   # Formic Library
+   -Used  for validations in forms (used for big application)  
